@@ -16,6 +16,8 @@
 :heavy_check_mark: Scout Rule <br />
 :heavy_check_mark: DRY <br />
 :heavy_check_mark: TEST <br />
+:heavy_check_mark: Erros <br />
+:heavy_check_mark: Comments <br />
 
 ## Design Patterns
 
