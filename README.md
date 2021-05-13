@@ -11,10 +11,10 @@
 
 ## Clean Code
 
-- [ ] Nomeclature Pattern
-- [ ] Little Functions and Tiny Little Functions
-- [ ] Scout Rule
-- [ ] DRY
+- :heavy_check_mark: Nomeclature Pattern
+- :heavy_check_mark: Little Functions and Tiny Little Functions
+- :heavy_check_mark: Scout Rule
+- :heavy_check_mark: DRY
 ### TEST
 
 ##
