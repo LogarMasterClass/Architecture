@@ -28,3 +28,11 @@
 
 ### Behavioral Patterns
 :heavy_check_mark: Observer <br />
+
+## SOLID
+
+:heavy_check_mark: **S**ingle Responsiblity Principle <br />
+:heavy_check_mark: **O**pen-Closed Principle <br />
+:heavy_check_mark: **L**iskov Substitution Principle Observer <br />
+:heavy_check_mark: **I**nterface Segregation Principle Observer <br />
+:heavy_check_mark: **D**ependency Inversion Principle Observer <br />
