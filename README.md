@@ -5,9 +5,9 @@
 - Design Patterns
 - SOLID
 - MVC
+- DDD
 - MVP
 - MVN
-- DDD
 
 ## Clean Code
 
