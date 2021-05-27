@@ -5,9 +5,9 @@
 - Design Patterns
 - SOLID
 - MVC
+- DDD
 - MVP
 - MVN
-- DDD
 
 ## Clean Code
 
@@ -16,6 +16,8 @@
 :heavy_check_mark: Scout Rule <br />
 :heavy_check_mark: DRY <br />
 :heavy_check_mark: TEST <br />
+:heavy_check_mark: Errors <br />
+:heavy_check_mark: Comments <br />
 
 ## Design Patterns
 
@@ -33,6 +35,6 @@
 
 :heavy_check_mark: ***S***ingle Responsiblity Principle <br />
 :heavy_check_mark: ***O***pen-Closed Principle <br />
-:heavy_check_mark: ***L***iskov Substitution Principle Observer <br />
-:heavy_check_mark: ***I***nterface Segregation Principle Observer <br />
-:heavy_check_mark: ***D***ependency Inversion Principle Observer <br />
+:heavy_check_mark: ***L***iskov Substitution Principle <br />
+:heavy_check_mark: ***I***nterface Segregation Principle <br />
+:heavy_check_mark: ***D***ependency Inversion Principle <br />
