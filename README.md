@@ -7,7 +7,7 @@
 - MVC
 - DDD
 - MVP
-- MVN
+- MVVM
 
 ## Clean Code
 
